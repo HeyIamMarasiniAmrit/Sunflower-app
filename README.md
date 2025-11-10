@@ -29,7 +29,7 @@ It’s a visual blend of art and mathematics, showing how patterns emerge in nat
 
 ## 📸 Screenshots
 *(Add your app screenshots here)*  
-![Sunflower App Screenshot](link-to-screenshot.png)
+<img width="1273" height="796" alt="Image" src="https://github.com/user-attachments/assets/b4d730de-d150-43f0-a923-553efd06bd26" />
 
 ---
 
