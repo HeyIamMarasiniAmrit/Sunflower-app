@@ -4,13 +4,38 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🌻 Sunflower App
 
-A few resources to get you started if this is your first Flutter project:
+A beautiful Flutter app inspired by the Fibonacci Sunflower pattern 🌻 — built with **Flutter** and **Dart**.  
+It’s a visual blend of art and mathematics, showing how patterns emerge in nature.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- 🌻 Dynamic sunflower pattern animation
+- 🌈 Smooth and responsive UI
+- 📱 Runs on Android, iOS, and Web
+- ⚡ Built with clean Flutter architecture
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (latest stable version)
+- **Dart**
+- **Material Design**
+- **Google Fonts**
+
+---
+
+## 📸 Screenshots
+*(Add your app screenshots here)*  
+![Sunflower App Screenshot](link-to-screenshot.png)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/sunflower_app.git
+
